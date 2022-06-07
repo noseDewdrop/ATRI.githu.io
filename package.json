@@ -1,12 +1,12 @@
 {
-  "name": "hexo-template",
+  "name": "喜欢张诗雨",
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "hexo generate",
-    "clean": "hexo clean",
-    "deploy": "hexo deploy",
-    "server": "hexo server"
+    "build": "喜欢你",
+    "clean": "喜欢你",
+    "deploy": "喜欢你",
+    "server": "喜欢你"
   },
   "hexo": {
     "version": "6.1.0"

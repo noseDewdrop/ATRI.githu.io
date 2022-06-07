@@ -1,5 +1,4 @@
 ---
-title: Hexo Template
+title: 我喜欢你
 ---
 
-my name is van
